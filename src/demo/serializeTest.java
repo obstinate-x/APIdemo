@@ -41,37 +41,6 @@ then().assertThat().statusCode(200).extract().response();
 String responseString=res.asString();
 System.out.println(responseString);
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 	}
 
 }
